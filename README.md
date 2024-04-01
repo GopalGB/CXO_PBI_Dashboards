@@ -1,4 +1,4 @@
-# Ecommerce Fashion Dashboard
+# eCommerce Fashion Dashboard
 
 
 ## CEO
