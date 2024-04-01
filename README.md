@@ -4,6 +4,8 @@
 ## CEO
 ![test](screenshots/1_CEO.png)
 
+
+
 ### 6 Thinking Hats
 1. **White Hat (Facts & Information):**
   - Look at the numbers and data on your dashboard.
@@ -45,7 +47,7 @@
   - What actions can we take based on what we see here?
   - Are there any changes we need to make in our strategy?
 
-
+![test](screenshots/1_CEO_QTD.png)
 ### The metrics needed by the CEO for several important reasons
 #### 1. Overall Revenue Growth
 
@@ -71,6 +73,8 @@
 - **Importance:** Influences customer loyalty, repeat purchases, and brand reputation.
 - **Purpose:** Identifies areas for improvement, addresses customer concerns, and maintains a strong market reputation.
 
+  
+![test](screenshots/1_CEO_YTD.png)
 ### The difficulty level for a CEO to obtain this information regularly can vary depending on several factors:
 
 1. **Data Availability:** If the necessary data for these metrics is readily available and well-organized within the company's systems, obtaining the information can be relatively straightforward. However, if data is scattered across different departments or stored in disparate systems, it may require more effort to consolidate and analyze.
