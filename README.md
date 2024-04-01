@@ -1,5 +1,5 @@
-#Ecommerce Fashion Dashboard
+# Ecommerce Fashion Dashboard
 
 
-##CEO
+## CEO
 ![test](screenshots/1_CEO.png)
