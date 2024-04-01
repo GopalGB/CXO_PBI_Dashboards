@@ -4,7 +4,7 @@
 ## CEO
 ![test](screenshots/1_CEO.png)
 
-### Information
+### 6 Thinking Hats
 - **White Hat (Facts & Information):**
   - Look at the numbers and data on your dashboard.
   - Check if your revenue is going up or down.
